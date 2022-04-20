@@ -1,0 +1,534 @@
+[
+    {
+        "id":"0","title":"Bolalar dunyosi","img":"https://www.creditasia.uz/upload/iblock/c8b/89c/1.jpg",
+        "sections":[
+            {
+                "id":101,
+                "title":"Bolalar kiyimlari"
+            },
+            {
+                "id":201,
+                "title":"Bolalar mebeli"
+            },
+            {
+                "id":301,
+                "title":"Maktab o'quvchilari uchun mahsulotlar"
+            },
+            {
+                "id":401,
+                "title":"Bolalar oyoq kiyimi"
+            },
+            {
+                "id":501,
+                "title":"O'yinchoqlar"
+            },
+            {
+                "id":601,
+                "title":"Boshqa bolalar mahsulotlari"
+            },
+            {
+                "id":701,
+                "title":"Bolalar kalyaskasi"
+            },
+            {
+                "id":801,
+                "title":"Bolalar transporti"
+            },
+            {
+                "id":901,
+                "title":"Bolalar avtoo'rindiqlari"
+            },
+            {
+                "id":1001,
+                "title":"Oziqlantirish"
+            }
+        ]
+    },
+    {
+        "id":"1","title":"Ko'chmas mulk","img":"https://media.istockphoto.com/vectors/key-icon-with-long-shadow-vector-id629665280?k=20&m=629665280&s=612x612&w=0&h=WUAKccB-epM8l-Cv2hnBhmfqkqXpT30sO1cMiMAbr7c=",
+        "sections":[
+            {
+                "id":102,
+                "title":"Kvartirlar"
+            },
+            {
+                "id":202,
+                "title":"Tijorat binolari"
+            },
+            {
+                "id":302,
+                "title":"Xususiy uylar"
+            },
+            {
+                "id":402,
+                "title":"Yer uchastkasi"
+            },
+            {
+                "id":502,
+                "title":"Garajlar/turargohlar"
+            }
+        ]
+    },
+    {
+        "id":"2","title":"Transport","img":"https://www.volvocars.com/images/v/-/media/project/contentplatform/data/media/my23/homepage/homepage-gallery-01-1x1.jpg?h=1080&iar=0&w=1080",
+        "sections":[
+            {
+                "id":102,
+                "title":"Yengil avtomashinalar"
+            },
+            {
+                "id":202,
+                "title":"Moto ehtiyot qismlari va aksessuarlar"
+            },
+            {
+                "id":302,
+                "title":"Tirkamalar"
+            },
+            {
+                "id":402,
+                "title":"Suv transporti"
+            },
+            {
+                "id":502,
+                "title":"Avto ehtiyot qismlari va aksessuarlar"
+            },
+            {
+                "id":602,
+                "title":"Boshqa transport"
+            },
+            {
+                "id":702,
+                "title":"Maxsus texnika"
+            },
+            {
+                "id":802,
+                "title":"Boshqa ehtiyot qismlar"
+            },
+            {
+                "id":902,
+                "title":"Shinalar, disklar va g'ildiraklar"
+            },
+            {
+                "id":112,
+                "title":"Avtobuslar"
+            },
+            {
+                "id":122,
+                "title":"Qishloq xo'jalik texnikasi"
+            },
+            {
+                "id":132,
+                "title":"Moto"
+            },
+            {
+                "id":142,
+                "title":"Yuk mashinalari"
+            },
+            {
+                "id":152,
+                "title":"Maxsus texnika uchun qismlar"
+            }
+        ]
+    },
+    {
+        "id":"3","title":"Ish","img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpMq6xHvMflRW49F870xeaXjC0ou09XkJp5Q&usqp=CAU",
+        "sections":[
+            {
+                "id":103,
+                "title":"Chakana savdo-sotuvlar"
+            },
+            {
+                "id":203,
+                "title":"Yurisprudentsiya-va-buhgalteriya"
+            },
+            {
+                "id":303,
+                "title":"Turizm-dam olish-o'yinlar"
+            },
+            {
+                "id":403,
+                "title":"It-telekom-kompyuterlar"
+            },
+            {
+                "id":503,
+                "title":"Kotibiyat-Axo"
+            },
+            {
+                "id":603,
+                "title":"Qisman bandlik"
+            },
+            {
+                "id":703,
+                "title":"Transport-logistika"
+            },
+            {
+                "id":803,
+                "title":"Qo'riqlash-xavfsizlik"
+            },
+            {
+                "id":903,
+                "title":"Ta'lim"
+            },
+            {
+                "id":113,
+                "title":"Ko'chmas mulk"
+            },
+            {
+                "id":123,
+                "title":"Karyerani boshlash, talabalar"
+            },
+            {
+                "id":133,
+                "title":"Qurilish"
+            },
+            {
+                "id":143,
+                "title":"Uy xodimlari"
+            },
+            {
+                "id":153,
+                "title":"Madaniyat-san'at"
+            },
+            {
+                "id":163,
+                "title":"Marketing-reklama-dizayn"
+            },
+            {
+                "id":173,
+                "title":"Xizmat ko'rsatish"
+            },
+            {
+                "id":183,
+                "title":"Barlar-restoranlar"
+            },
+            {
+                "id":193,
+                "title":"Go'zallik-fitnes-sport"
+            },
+            {
+                "id":1223,
+                "title":"Tibbiyot-farmatsiya"
+            },
+            {
+                "id":1323,
+                "title":"Ishlab chiqarish-energetika"
+            },
+            {
+                "id":1423,
+                "title":"Boshqa mashg'ulotlar"
+            }
+        ]
+    },
+    {
+        "id":"4","title":"Hayvonlar","img":"https://www.collinsdictionary.com/images/full/dog_230497594.jpg",
+        "sections":[
+            {
+                "id":553402,
+                "title":"Itlar"
+            },
+            {
+                "id":108747,
+                "title":"Kemiruvchilar"
+            },
+            {
+                "id":89141,
+                "title":"Topilmalar idorasi"
+            },
+            {
+                "id":85419,
+                "title":"Mushuklar"
+            },
+            {
+                "id":834084,
+                "title":"Qishloq xo'jalik hayvonlari"
+            },
+            {
+                "id":702514,
+                "title":"Boshqa hayvonlar"
+            },
+            {
+                "id":464074,
+                "title":"Akvarium baliqlari"
+            },
+            {
+                "id":228804,
+                "title":"Hayvonlar uchun mahsulotlar"
+            },
+            {
+                "id":573170,
+                "title":"Tekinga hayvonlar"
+            },
+            {
+                "id":547123,
+                "title":"Qushlar"
+            },
+            {
+                "id":214124,
+                "title":"To'qish"
+            }
+        ]
+    },
+    {
+        "id":"5","title":"Uy va bog`","img":"https://ii.worldmarket.com/fcgi-bin/iipsrv.fcgi?FIF=/images/worldmarket/source/87344_XXX_v1.tif&qlt=50&wid=650&cvt=jpeg",
+        "sections":[
+            {
+                "id":810339,
+                "title":"Mebel"
+            },
+            {
+                "id":210553,
+                "title":"Jihozlar"
+            },
+            {
+                "id":202572,
+                "title":"Xo'jalik jihozlari, maishiy kimyo"
+            },
+            {
+                "id":716800,
+                "title":"Bog'-tomorqa"
+            },
+            {
+                "id":244738,
+                "title":"Xona o'simliklari"
+            },
+            {
+                "id":864157,
+                "title":"Kanstovarlar-chiqim materiallari"
+            },
+            {
+                "id":310928,
+                "title":"Interyer jihozlari"
+            },
+            {
+                "id":691863,
+                "title":"Idish-tovoq, oshxona anjomlari"
+            },
+            {
+                "id":237433,
+                "title":"Oziq-ovqat / Ichimliklar"
+            },
+            {
+                "id":469099,
+                "title":"Qurilish/ta‘mirlash uchun tovarlar"
+            },
+            {
+                "id":64711,
+                "title":"Bog' anjomlari"
+            },
+            {
+                "id":891400,
+                "title":"Uy uchun boshqa mahsulotlar"
+            }
+        ]
+    },
+    {
+        "id":"6","title":"Elektr jihozlari","img":"https://i.insider.com/60117b551d2df20018b71117?width=1136&format=jpeg",
+        "sections":[
+            {
+                "id":89722,
+                "title":"Telefonlar"
+            },
+            {
+                "id":151593,
+                "title":"Audiotexnika"
+            },
+            {
+                "id":620598,
+                "title":"Iqlim qurilmalari"
+            },
+            {
+                "id":147244,
+                "title":"Kompyuterlar"
+            },
+            {
+                "id":600004,
+                "title":"O'yinlar va o'yin anjomlari"
+            },
+            {
+                "id":166551,
+                "title":"Yakka tartibdagi parvarish"
+            },
+            {
+                "id":561163,
+                "title":"Foto/ video"
+            },
+            {
+                "id":150581,
+                "title":"Uy uchun texnika"
+            },
+            {
+                "id":698104,
+                "title":"Aksessuarlar va komplekt jihozlar"
+            },
+            {
+                "id":145520,
+                "title":"Tv/ videotexnika"
+            },
+            {
+                "id":14203,
+                "title":"Oshxona uchun texnika"
+            },
+            {
+                "id":42311,
+                "title":"Boshqa elektronika"
+            }
+        ]
+    },
+    {
+        "id":"7","title":"Xizmatlar","img":"https://guide-images.cdn.ifixit.com/igi/nhAT61GtcAiwKCDC.large",
+        "sections":[
+            {
+                "id":270273,
+                "title":"Qurilish-ta'mirlash-xona tozalash"
+            },
+            {
+                "id":780766,
+                "title":"Enagalar-kasalga qarovchilar"
+            },
+            {
+                "id":596350,
+                "title":"Ta'lim-sport"
+            },
+            {
+                "id":323370,
+                "title":"Turizm"
+            },
+            {
+                "id":790397,
+                "title":"Yuridik xizmatlar"
+            },
+            {
+                "id":445430,
+                "title":"Moliya xizmatlari"
+            },
+            {
+                "id":806018,
+                "title":"Xomashyo-materiallar"
+            },
+            {
+                "id":494345,
+                "title":"Hayvonlar uchun xizmatlar"
+            },
+            {
+                "id":922359,
+                "title":"Tarjimonlar xizmatlari-matnlarni terish"
+            },
+            {
+                "id":297601,
+                "title":"Mahsulotlar prokati"
+            },
+            {
+                "id":30382,
+                "title":"Tashishlar-transport ijarasi"
+            },
+            {
+                "id":967336,
+                "title":"Go'zallik-salomatlik"
+            },
+            {
+                "id":938275,
+                "title":"Biznesni sotish"
+            },
+            {
+                "id":650949,
+                "title":"Avto-moto xizmatlar"
+            },
+            {
+                "id":954758,
+                "title":"Boshqa xizmatlar"
+            },
+            {
+                "id":39272,
+                "title":"Reklama, poligrafiya, marketing, internet"
+            },
+            {
+                "id":119546,
+                "title":"Qurilmalar"
+            },
+            {
+                "id":656864,
+                "title":"O'yinlar-san'at-foto-video"
+            },
+            {
+                "id":476538,
+                "title":"Texnikaga xizmat ko'rsatish, ta'mirlash"
+            }
+        ]
+    },
+    {
+        "id":"8","title":"Moda va stil","img":"https://dynaimage.cdn.cnn.com/cnn/q_auto,w_412,c_fill,g_auto,h_412,ar_1:1/http%3A%2F%2Fcdn.cnn.com%2Fcnnnext%2Fdam%2Fassets%2F220113125656-10-year-of-the-tiger-fashion.jpg",
+        "sections":[
+            {
+                "id":913820,
+                "title":"Kiyim-kechak"
+            },
+            {
+                "id":257781,
+                "title":"Aksessuarlar"
+            },
+            {
+                "id":804218,
+                "title":"To'y uchun"
+            },
+            {
+                "id":363736,
+                "title":"Sovg'alar"
+            },
+            {
+                "id":161979,
+                "title":"Moda, turli-tumanliklar"
+            },
+            {
+                "id":269991,
+                "title":"Go'zallik-salomatlik"
+            },
+            {
+                "id":676997,
+                "title":"Qo'l soatlari"
+            }
+        ]
+    },
+    {
+        "id":"9","title":"Xobbi, dam olish sport","img":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Football_%28soccer_ball%29.svg/1928px-Football_%28soccer_ball%29.svg.png",
+        "sections":[
+            {
+                "id":879998,
+                "title":"Antikvar kolleksiyalar"
+            },
+            {
+                "id":724844,
+                "title":"Kitoblar-jurnallar"
+            },
+            {
+                "id":250016,
+                "title":"Musiqa anjomlari"
+            },
+            {
+                "id":405327,
+                "title":"Cd-dvd-plastinkalar, kassetalar"
+            },
+            {
+                "id":862567,
+                "title":"Boshqalar"
+            },
+            {
+                "id":486396,
+                "title":"Chiptalar"
+            },
+            {
+                "id":627777,
+                "title":"Sport-dam olish"
+            }
+        ]
+    },
+    {
+        "id":"10","title":"Tekinga beraman","img":"https://media.istockphoto.com/photos/sale-tag-picture-id185009333?k=20&m=185009333&s=170667a&w=0&h=xmXHoYhw-boA3MF3e1pzRQOXC06OESllv6FFdbwxkOs=",
+        "sections":[]
+    },
+    {
+        "id":"11","title":"Ayirboshlash","img":"https://cdn4.iconfinder.com/data/icons/finance-448/200/CURRENCY-EXCHANGE-1--CURRENCY-EXCHANGE-FINANCE-DOLLAR-EURO-COIN-STACK-PILE-ARROW-TRADE-512.png","sections":[]
+    },
+    {
+        "id":"12","title":"Yordam markazi","img":"https://mndaily.com/wp-content/uploads/2019/06/graphics_6.25.19-letterstotheeditor-CMYK-01-900x900.jpeg","sections":[]
+    }
+]
